@@ -1,0 +1,38 @@
+.container {
+    width: 1200px;
+    margin: auto;
+ }
+  
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+.box1 {
+    width: 50%;
+    margin: auto;
+    border: 0cap;
+}
+ul{
+    list-style-type: disc;
+}
+
+p {
+  margin-bottom: 10px;
+  font-size: larger;
+  font-family: serif;
+  font-weight: 200;
+}
+
+.box2 {
+    width: 30%;
+    margin: auto;
+}
+.box1 img{
+    width: 50%;
+    margin: auto;
+}
+
+h1{
+    width: 100%;
+}
